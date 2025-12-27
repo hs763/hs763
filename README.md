@@ -1,7 +1,7 @@
 <h1 align="left">Hi 🧠🧬🔬🧪, I'm Hanna M Szafranska</h1>
 <h3 align="left">An integrative biologist combining experimental and computational neuroscience approaches. Skilled in multi-omic single-cell analysis and organoid modeling, with a strong interest in data-driven discovery and translational biotechnology.</h3>
 
-- 🔭 I’m currently working on **Compairing Network Dynamics Brain Development Across Primate Species**
+- 🔭 I’m currently working on **Compairing Network Dynamics Of Developing Brain Across Primate Species**
 
 - 💬 Ask me about **species demultiplexing, scRNAseq, multi-omics, brain development**
 
